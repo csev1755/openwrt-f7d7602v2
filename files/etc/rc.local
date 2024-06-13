@@ -1,0 +1,2 @@
+sh /root/wifi_on.sh
+exit 0
